@@ -18,5 +18,6 @@ fi
 #运行命令
 #find "${dirPath}" -mtime +${expireDay}  -type f -name "${logType}" | xargs rm -rf
 
+#修改测试
 find "${dirPath}" -mtime +${expireDay}  -type f -name "${logType}" 
 
