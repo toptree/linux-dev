@@ -1,6 +1,7 @@
 #! /bin/bash
 ####################################################
 #Scripts for jbossWeb catalina.out cut every day
+# test shell
 #eg: catalina.out.20100804
 #Written by toptreegzh
 #at 2010-08-04
