@@ -1,7 +1,7 @@
 #! /bin/bash
 ####################################################
 #Scripts for jbossWeb catalina.out cut every day
-#eg: catalina.out.20100804
+#eg: catalina.out.20100804 这个可以吗
 #Written by toptreegzh
 #at 2010-08-04
 ####################################################
